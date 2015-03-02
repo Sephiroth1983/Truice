@@ -134,7 +134,7 @@ begin
   MyQuery.Open;
   if MyQuery.Eof then
   begin
-    Add(1, dmMain.Text[26], [qid]); //'Fatal Error: Quest with entry = %d not found'
+    Add(1, dmMain.Text[26], [qid]); //'Fatal Error: Quest with id = %d not found'
     Exit;
   end;
   //

@@ -1,5 +1,5 @@
 1;Group
-21;Life
+21;Class
 41;PvP
 62;Raid
 81;Dungeon
@@ -9,3 +9,5 @@
 85;Heroic
 88;Raid (10)
 89;Raid (25)
+98;Scenario
+102;Account

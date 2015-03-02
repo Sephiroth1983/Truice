@@ -18,14 +18,14 @@
 109;Sunken Temple
 129;Razorfen Downs
 169;Emerald Dream
-189;Scarlet Monastery
+189;Scarlet Monastery of Old
 209;Zul'Farrak
 229;Blackrock Spire
 230;Blackrock Depths
 249;Onyxia's Lair
 269;Opening of the Dark Portal
-289;Scholomance
-309;Zul'Gurub
+289;Scholomance OLD
+309;Ancient Zul'Gurub
 329;Stratholme
 349;Maraudon
 369;Deeprun Tram
@@ -116,20 +116,173 @@
 622;Transport: Orgrim's Hammer
 623;Transport: The Skybreaker
 624;Vault of Archavon
+627;unused
 628;Isle of Conquest
 631;Icecrown Citadel
 632;The Forge of Souls
+637;Abyssal Maw Exterior
+638;Gilneas
 641;Transport: Alliance Airship BG
 642;Transport: HordeAirshipBG
+643;Throne of the Tides
+644;Halls of Origination
+645;Blackrock Caverns
+646;Deepholm
 647;Transport: Orgrimmar to Thunder Bluff
+648;LostIsles
 649;Trial of the Crusader
 650;Trial of the Champion
+651;ElevatorSpawnTest
+654;Gilneas2
+655;GilneasPhase1
+656;GilneasPhase2
+657;The Vortex Pinnacle
 658;Pit of Saron
+659;Lost Isles Volcano Eruption
+660;Deephome Ceiling
+661;Lost Isles Town in a Box
+662;Transport: Alliance Vashj'ir Ship
 668;Halls of Reflection
+669;Blackwing Descent
+670;Grim Batol
+671;The Bastion of Twilight
 672;Transport: The Skybreaker (Icecrown Citadel Raid)
 673;Transport: Orgrim's Hammer (Icecrown Citadel Raid)
+674;Transport: Ship to Vashj'ir
 712;Transport: The Skybreaker (IC Dungeon)
 713;Transport: Orgrim's Hammer (IC Dungeon)
 718;Trasnport: The Mighty Wind (Icecrown Citadel Raid)
+719;Mount Hyjal Phase 1
+720;Firelands
+721;Firelands Terrain 2
 723;Stormwind
 724;The Ruby Sanctum
+725;The Stonecore
+726;Twin Peaks
+727;Silvershard Mines
+728;The Battle for Gilneas (Old City Map)
+730;Maelstrom Zone
+731;Stonetalon Bomb
+732;Tol Barad
+734;Ahn'Qiraj Terrace
+736;Twilight Highlands Dragonmaw Phase
+738;Ship to Vashj'ir (Orgrimmar -> Vashj'ir)
+739;Vashj'ir Sub - Horde
+740;Vashj'ir Sub - Alliance
+741;Twilight Highlands Horde Transport
+742;Vashj'ir Sub - Horde - Circling Abyssal Maw
+743;Vashj'ir Sub - Alliance circling Abyssal Maw
+746;Uldum Phase Oasis
+747;Transport: Deepholm Gunship
+748;Transport: Onyxia/Nefarian Elevator
+749;Transport: Gilneas Moving Gunship
+750;Transport: Gilneas Static Gunship
+751;Redridge - Orc Bomb
+752;Redridge - Bridge Phase One
+753;Redridge - Bridge Phase Two
+754;Throne of the Four Winds
+755;Lost City of the Tol'vir
+757;Baradin Hold
+759;Uldum Phased Entrance
+760;Twilight Highlands Phased Entrance
+761;The Battle for Gilneas
+762;Twilight Highlands Zeppelin 1
+763;Twilight Highlands Zeppelin 2
+764;Uldum - Phase Wrecked Camp
+765;Krazzworks Attack Zeppelin
+766;Transport: Gilneas Moving Gunship 02
+767;Transport: Gilneas Moving Gunship 03
+859;Zul'Gurub
+860;The Wandering Isle
+861;Molten Front
+870;Pandaria
+930;(UNUSED) Scenario: Alcaz Island
+938;End Time
+939;Well of Eternity
+940;Hour of Twilight
+951;Nexus Legendary
+959;Shado-Pan Monastery
+960;Temple of the Jade Serpent
+961;Stormstout Brewery
+962;Gate of the Setting Sun
+967;Dragon Soul
+968;Rated Eye of the Storm
+971;Jade Forest Alliance Hub Phase
+972;Jade Forest Battlefield Phase
+974;Darkmoon Faire
+975;Turtle Ship Phase 01
+976;Turtle Ship Phase 02
+977;Maelstrom Deathwing Fight
+980;Tol'Viron Arena
+994;Mogu'shan Palace
+995;The Depths [UNUSED]
+996;Terrace of Endless Spring
+998;Temple of Kotmogu
+999;Theramore's Fall (H)
+1000;Theramore's Fall (A)
+1001;Scarlet Halls
+1004;Scarlet Monastery
+1005;A Brewing Storm
+1007;Scholomance
+1008;Mogu'shan Vaults
+1009;Heart of Fear
+1010;CTF3
+1011;Siege of Niuzao Temple
+1014;(UNUSED) Peak of Serenity Scenario
+1019;Ruins of Theramore
+1024;Greenstone Village
+1028;(UNUSED) Scenario: Mogu Ruins
+1029;(UNUSED) Scenario: Mogu Crypt
+1030;Crypt of Forgotten Kings
+1031;Arena of Annihilation
+1032;Pet Battle - Jade Forest
+1035;Temple of Kotmogu
+1043;Brawl'gar Arena
+1048;Unga Ingoo
+1049;(UNUSED) Scenario: Black Ox Temple
+1050;Assault on Zan'vess
+1051;Brewmoon Festival
+1060;Level Design Land - Dev Only
+1061;Horde Beach Daily Area
+1062;Alliance Beach Daily Area
+1064;Mogu Island Daily Area
+1066;Stormwind Gunship Pandaria Start Area
+1074;Orgrimmar Gunship Pandaria Start
+1075;Theramore's Fall Phase
+1076;Jade Forest Horde Starting Area
+1095;Dagger in the Dark
+1098;Throne of Thunder
+1099;Naval Battle Scenario
+1101;Defense Of The Ale House BG
+1102;Domination Point
+1103;Lion's Landing
+1104;A Little Patience
+1105;Deepwind Gorge
+1106;Jaina Dalaran Scenario
+1107;Warlock Area
+1112;Pursuing the Black Harvest
+1113;Transport: DarkmoonCarousel
+1120;Thunder King Horde Hub
+1121;Thunder Island Alliance Hub
+1122;City Siege - Mogu Island Progression Scenario
+1123;Lightning Forge - Mogu Island Progression Scenario
+1124;Shipyard - Mogu Island Progression Scenario
+1125;Alliance Hub - Mogu Island Progression Scenario
+1126;Mogu Island Progression Events
+1127;Final Gate - Mogu Island Progression Scenario
+1128;Mogu Island Events - Horde Base
+1129;Mogu Island Events - Alliance Base
+1130;Blood in the Snow
+1131;The Secrets of Ragefire
+1132;Transport: The Skybag (Brawl'gar Arena)
+1133;Transport: Zandalari Ship (Mogu Island)
+1134;The Tiger's Peak
+1135;Mogu Island Loot Room
+1136;Siege of Orgrimmar
+1144;Heart of the Old God Scenario
+1148;Proving Grounds
+1155;Stromgarde Keep
+1157;Halfhill Scenario
+1161;Celestial Tournament
+1172;Transport: Siege of Orgrimmar (Alliance)
+1173;Transport: Siege of Orgrimmar (Horde)

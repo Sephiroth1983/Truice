@@ -1,151 +1,207 @@
-0;None
-6;Frost
-8;Fire
-26;Arms
-38;Combat
-39;Subtlety
-43;Swords
-44;Axes
-45;Bows
-46;Guns
-50;Beast Mastery
-51;Survival
-54;Maces
-55;Two-Handed Swords
-56;Holy
-78;Shadow Magic
-95;Defense
-98;Language: Common
-101;Dwarven Racial
-109;Language: Orcish
-111;Language: Dwarven
-113;Language: Darnassian
-115;Language: Taurahe
-118;Dual Wield
-124;Tauren Racial
-125;Orc Racial
-126;Night Elf Racial
-129;First Aid
-134;Feral Combat
-136;Staves
-137;Language: Thalassian
-138;Language: Draconic
-139;Language: Demon Tongue
-140;Language: Titan
-141;Language: Old Tongue
-142;Survival
-148;Horse Riding
-149;Wolf Riding
-150;Tiger Riding
-152;Ram Riding
-155;Swimming
-160;Two-Handed Maces
-162;Unarmed
-163;Marksmanship
-164;Blacksmithing
-165;Leatherworking
-171;Alchemy
-172;Two-Handed Axes
-173;Daggers
-176;Thrown
-182;Herbalism
-183;GENERIC (DND)
-184;Retribution
-185;Cooking
-186;Mining
-188;Pet - Imp
-189;Pet - Felhunter
-197;Tailoring
-202;Engineering
-203;Pet - Spider
-204;Pet - Voidwalker
-205;Pet - Succubus
-206;Pet - Infernal
-207;Pet - Doomguard
-208;Pet - Wolf
-209;Pet - Cat
-210;Pet - Bear
-211;Pet - Boar
-212;Pet - Crocolisk
-213;Pet - Carrion Bird
-214;Pet - Crab
-215;Pet - Gorilla
-217;Pet - Raptor
-218;Pet - Tallstrider
-220;Racial - Undead
-226;Crossbows
-228;Wands
-229;Polearms
-236;Pet - Scorpid
-237;Arcane
-251;Pet - Turtle
-253;Assassination
-256;Fury
-257;Protection
-267;Protection
-270;Pet - Generic Hunter
-293;Plate Mail
-313;Language: Gnomish
-315;Language: Troll
-333;Enchanting
-354;Demonology
-355;Affliction
-356;Fishing
-373;Enhancement
-374;Restoration
-375;Elemental Combat
-393;Skinning
-413;Mail
-414;Leather
-415;Cloth
-433;Shield
-473;Fist Weapons
-533;Raptor Riding
-553;Mechanostrider Piloting
-554;Undead Horsemanship
-573;Restoration
-574;Balance
-593;Destruction
-594;Holy
-613;Discipline
-633;Lockpicking
-653;Pet - Bat
-654;Pet - Hyena
-655;Pet - Bird of Prey
-656;Pet - Wind Serpent
-673;Language: Gutterspeak
-713;Kodo Riding
-733;Racial - Troll
-753;Racial - Gnome
-754;Racial - Human
-755;Jewelcrafting
-756;Blood Elf Racial
-758;Pet - Event - Remote Control
-759;Language: Draenei
-760;Draenei Racial
-761;Pet - Felguard
-762;Riding
-763;Pet - Dragonhawk
-764;Pet - Nether Ray
-765;Pet - Sporebat
-766;Pet - Warp Stalker
-767;Pet - Ravager
-768;Pet - Serpent
-769;Internal
-770;DK Blood
-771;DK Frost
-772;DK Unholy
-773;Inscription
-775;Pet - Moth
-776;Runeforging
-777;Mounts
-778;Companions
-780;Pet - Exotic Chimaera
-781;Pet - Exotic Devlisaur
-782;Pet - Ghoul
-783;Pet - Exotic Silithid
-784;Pet - Exotic Worm
-785;Pet - Wasp
-786;Pet - Exotic Rhino
-787;Pet - Exotic Core Hound
-788;Pet - Exotic Spirit Beast
+0;NONE
+6;SKILL_FROST                  
+8;SKILL_FIRE                   
+26;SKILL_ARMS                   
+38;SKILL_COMBAT                 
+39;SKILL_SUBTLETY               
+43;SKILL_SWORDS                 
+44;SKILL_AXES                   
+45;SKILL_BOWS                   
+46;SKILL_GUNS                   
+50;SKILL_BEAST_MASTERY          
+51;SKILL_SURVIVAL               
+54;SKILL_MACES                  
+55;SKILL_2H_SWORDS              
+56;SKILL_HOLY                   
+78;SKILL_SHADOW                 
+95;SKILL_DEFENSE                
+98;SKILL_LANG_COMMON            
+101;SKILL_RACIAL_DWARVEN         
+109;SKILL_LANG_ORCISH            
+111;SKILL_LANG_DWARVEN           
+113;SKILL_LANG_DARNASSIAN        
+115;SKILL_LANG_TAURAHE           
+118;SKILL_DUAL_WIELD             
+124;SKILL_RACIAL_TAUREN          
+125;SKILL_ORC_RACIAL             
+126;SKILL_RACIAL_NIGHT_ELF       
+129;SKILL_FIRST_AID              
+134;SKILL_FERAL_COMBAT           
+136;SKILL_STAVES                 
+137;SKILL_LANG_THALASSIAN        
+138;SKILL_LANG_DRACONIC          
+139;SKILL_LANG_DEMON_TONGUE      
+140;SKILL_LANG_TITAN             
+141;SKILL_LANG_OLD_TONGUE        
+142;SKILL_SURVIVAL2              
+148;SKILL_RIDING_HORSE           
+149;SKILL_RIDING_WOLF            
+150;SKILL_RIDING_TIGER           
+152;SKILL_RIDING_RAM             
+155;SKILL_SWIMING                
+160;SKILL_2H_MACES               
+162;SKILL_UNARMED                
+163;SKILL_MARKSMANSHIP           
+164;SKILL_BLACKSMITHING          
+165;SKILL_LEATHERWORKING         
+171;SKILL_ALCHEMY                
+172;SKILL_2H_AXES                
+173;SKILL_DAGGERS                
+176;SKILL_THROWN                 
+182;SKILL_HERBALISM              
+183;SKILL_GENERIC_DND            
+184;SKILL_RETRIBUTION            
+185;SKILL_COOKING                
+186;SKILL_MINING                 
+188;SKILL_PET_IMP                
+189;SKILL_PET_FELHUNTER          
+197;SKILL_TAILORING              
+202;SKILL_ENGINEERING            
+203;SKILL_PET_SPIDER             
+204;SKILL_PET_VOIDWALKER         
+205;SKILL_PET_SUCCUBUS           
+206;SKILL_PET_INFERNAL           
+207;SKILL_PET_DOOMGUARD          
+208;SKILL_PET_WOLF               
+209;SKILL_PET_CAT                
+210;SKILL_PET_BEAR               
+211;SKILL_PET_BOAR               
+212;SKILL_PET_CROCILISK          
+213;SKILL_PET_CARRION_BIRD       
+214;SKILL_PET_CRAB               
+215;SKILL_PET_GORILLA            
+217;SKILL_PET_RAPTOR             
+218;SKILL_PET_TALLSTRIDER        
+220;SKILL_RACIAL_UNDED           
+226;SKILL_CROSSBOWS              
+228;SKILL_WANDS                  
+229;SKILL_POLEARMS               
+236;SKILL_PET_SCORPID            
+237;SKILL_ARCANE                 
+251;SKILL_PET_TURTLE             
+253;SKILL_ASSASSINATION          
+256;SKILL_FURY                   
+257;SKILL_PROTECTION             
+267;SKILL_PROTECTION2            
+270;SKILL_PET_TALENTS            
+293;SKILL_PLATE_MAIL             
+313;SKILL_LANG_GNOMISH           
+315;SKILL_LANG_TROLL             
+333;SKILL_ENCHANTING             
+354;SKILL_DEMONOLOGY             
+355;SKILL_AFFLICTION             
+356;SKILL_FISHING                
+373;SKILL_ENHANCEMENT            
+374;SKILL_RESTORATION            
+375;SKILL_ELEMENTAL_COMBAT       
+393;SKILL_SKINNING               
+413;SKILL_MAIL                   
+414;SKILL_LEATHER                
+415;SKILL_CLOTH                  
+433;SKILL_SHIELD                 
+473;SKILL_FIST_WEAPONS           
+533;SKILL_RIDING_RAPTOR          
+553;SKILL_RIDING_MECHANOSTRIDER  
+554;SKILL_RIDING_UNDEAD_HORSE    
+573;SKILL_RESTORATION2           
+574;SKILL_BALANCE                
+593;SKILL_DESTRUCTION            
+594;SKILL_HOLY2                  
+613;SKILL_DISCIPLINE             
+633;SKILL_LOCKPICKING            
+653;SKILL_PET_BAT                
+654;SKILL_PET_HYENA              
+655;SKILL_PET_BIRD_OF_PREY       
+656;SKILL_PET_WIND_SERPENT       
+673;SKILL_LANG_GUTTERSPEAK       
+713;SKILL_RIDING_KODO            
+733;SKILL_RACIAL_TROLL           
+753;SKILL_RACIAL_GNOME           
+754;SKILL_RACIAL_HUMAN           
+755;SKILL_JEWELCRAFTING          
+756;SKILL_RACIAL_BLOODELF        
+758;SKILL_PET_EVENT_RC           
+759;SKILL_LANG_DRAENEI           
+760;SKILL_RACIAL_DRAENEI         
+761;SKILL_PET_FELGUARD           
+762;SKILL_RIDING                 
+763;SKILL_PET_DRAGONHAWK         
+764;SKILL_PET_NETHER_RAY         
+765;SKILL_PET_SPOREBAT           
+766;SKILL_PET_WARP_STALKER       
+767;SKILL_PET_RAVAGER            
+768;SKILL_PET_SERPENT            
+769;SKILL_INTERNAL               
+770;SKILL_DK_BLOOD               
+771;SKILL_DK_FROST               
+772;SKILL_DK_UNHOLY              
+773;SKILL_INSCRIPTION            
+775;SKILL_PET_MOTH               
+776;SKILL_RUNEFORGING            
+777;SKILL_MOUNTS                 
+778;SKILL_COMPANIONS             
+780;SKILL_PET_EXOTIC_CHIMAERA    
+781;SKILL_PET_EXOTIC_DEVILSAUR   
+782;SKILL_PET_GHOUL              
+783;SKILL_PET_EXOTIC_SILITHID    
+784;SKILL_PET_EXOTIC_WORM        
+785;SKILL_PET_WASP               
+786;SKILL_PET_EXOTIC_RHINO       
+787;SKILL_PET_EXOTIC_CORE_HOUND  
+788;SKILL_PET_EXOTIC_SPIRIT_BEAST
+789;SKILL_RACIAL_WORGEN          
+790;SKILL_RACIAL_GOBLIN          
+791;SKILL_LANG_WORGEN            
+792;SKILL_LANG_GOBLIN            
+794;SKILL_ARCHAEOLOGY            
+795;SKILL_GENERAL_HUNTER         
+796;SKILL_GENERAL_DEATH_KNIGHT   
+797;SKILL_GENERAL_ROGUE          
+798;SKILL_GENERAL_DRUID          
+799;SKILL_GENERAL_MAGE           
+800;SKILL_GENERAL_PALADIN        
+801;SKILL_GENERAL_SHAMAN         
+802;SKILL_GENERAL_WARLOCK        
+803;SKILL_GENERAL_WARRIOR        
+804;SKILL_GENERAL_PRIEST         
+805;SKILL_PET_WATER_ELEMENTAL    
+808;SKILL_PET_FOX                
+810;SKILL_ALL_GLYPHS             
+811;SKILL_PET_DOG                
+815;SKILL_PET_MONKEY             
+817;SKILL_PET_SHALE_SPIDER       
+818;SKILL_PET_BEETLE             
+821;SKILL_ALL_GUILD_PERKS        
+824;SKILL_PET_HYDRA              
+829;SKILL_GENERAL_MONK           
+840;SKILL_NEW_WARRIOR            
+849;SKILL_NEW_WARLOCK            
+899;SKILL_RACIAL_PANDAREN        
+904;SKILL_NEW_MAGE               
+905;SKILL_LANG_PANDAREN_N        
+906;SKILL_LANG_PANDAREN_A        
+907;SKILL_LANG_PANDAREN_H        
+921;SKILL_NEW_ROGUE              
+924;SKILL_NEW_SHAMAN             
+927;SKILL_NEW_PET_IMP            
+928;SKILL_NEW_PET_VOIDWALKER     
+930;SKILL_NEW_PET_OBSERVER       
+931;SKILL_NEW_PET_WRATHGUARD     
+934;SKILL_ALL                    
+960;SKILL_NEW_RUNEFORGING        
+975;SKILL_WAY_OF_GRILL           
+976;SKILL_WAY_OF_WOK             
+977;SKILL_WAY_OF_POT             
+978;SKILL_WAY_OF_STEAMER         
+979;SKILL_WAY_OF_OVEN            
+980;SKILL_WAY_OF_BREW            
+981;SKILL_APPRENTICE_COOKING     
+982;SKILL_JOURNEYMAN_COOKBOOK    
+983;SKILL_PORCUPINE              
+984;SKILL_CRANE                  
+985;SKILL_WATER_STRIDER          
+916;SKILL_QUILEN                 
+987;SKILL_GOAT                   
+988;SKILL_BASILIK                
+999;SKILL_NO_PLAYER              
+1305;SKILL_DIREHORN               

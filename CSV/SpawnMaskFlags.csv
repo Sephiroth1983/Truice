@@ -1,4 +1,16 @@
-1;10-man-normal (maps without heroic mode)
-2;25-man-normal (or heroics pre 3.2)
-3;10-man heroic
-4;25-man-heroic
+1;Default
+2;Dungeon_10man_Normal
+4;Dungeon_10man_Heroic
+8;Raid_10man_Normal
+16;Raid_25man_Normal
+32;Raid_10man_Heroic
+64;Raid_25man_Heroic
+128;Raid_25man_LFR
+256;Dungeon_Challenge
+512;Raid_40man
+1024;none_1
+2048;Scenario_Heroic
+4096;Scenario_Normal
+8192;none_2
+16384;Raid_10man_Flex
+32766;ALL
