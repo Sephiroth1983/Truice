@@ -6,7 +6,7 @@
 6;PLAYER, Tauren 
 7;Creature
 10;Escortee
-11;Stormwind 
+11;Stormwind
 12;Stormwind
 14;Monster
 15;Creature
@@ -17,7 +17,7 @@
 20;Gnoll - Riverpaw
 21;Undead, Scourge
 22;Beast - Spider
-23;Gnomeregan Exiles
+23;Gnomeregan
 24;Worgen
 25;Kobold
 26;Kobold
@@ -33,41 +33,41 @@
 36;Trogg
 37;Troll, Frostmane
 38;Beast - Wolf
-39;Gnoll-Shadowhide
-40;Orc,Blackrock
+39;Gnoll - Shadowhide
+40;Orc, Blackrock
 41;Villian
 42;Victim
 43;Villian
-44;Beast-Bear
+44;Beast - Bear
 45;Ogre
 46;Kurzen's Mercenaries
 47;Venture Company
-48;Beast-Raptor
+48;Beast - Raptor
 49;Basilisk
-50;Dragonflight,Green
+50;Dragonflight, Green
 51;Lost Ones
 52;Gizlock's Dummy
-53;Human,Night Watch
+53;Human, Night Watch
 54;Dark Iron Dwarves
 55;Ironforge
-56;Human,Night Watch
+56;Human, Night Watch
 57;Ironforge
 58;Creature
 59;Trogg
-60;Dragonflight,Red
-61;Gnoll-Mosshide
-62;Orc,Dragonmaw
-63;Gnome-Leper
-64;Gnomeregan Exiles
+60;Dragonflight, Red
+61;Gnoll - Mosshide
+62;Orc, Fel Dragonmaw
+63;Gnome - Leper
+64;Gnomeregan
 65;Orgrimmar
 66;Leopard
 67;Scarlet Crusade
 68;Undercity
 69;Ratchet
-70;Gnoll-Rothide
+70;Gnoll - Rothide
 71;Undercity
-72;Beast-Gorilla
-73;Beast-Carrion Bird
+72;Beast - Gorilla
+73;Beast - Carrion Bird
 74;Naga
 76;Dalaran
 77;Forlorn Spirit
@@ -88,28 +88,28 @@
 92;Spirit
 93;Monster
 94;Treasure
-95;Gnoll-Mudsnout
-96;HIllsbrad,Southshore Mayor
+95;Gnoll - Mudsnout
+96;HIllsbrad, Southshore Mayor
 97;Syndicate
 98;Undercity
 99;Victim
 100;Treasure
 101;Treasure
 102;Treasure
-103;Dragonflight,Black
+103;Dragonflight, Black
 104;Thunder Bluff
 105;Thunder Bluff
 106;Horde Generic
-107;Troll,Frostmane
+107;Troll, Frostmane
 108;Syndicate
-109;Quilboar,Razormane 2
-110;Quilboar,Razormane 2
-111;Quilboar,Bristleback
-112;Quilboar,Bristleback
+109;Quilboar, Razormane 2
+110;Quilboar, Razormane 2
+111;Quilboar, Bristleback
+112;Quilboar, Bristleback
 113;Escortee
 114;Treasure
-115;PLAYER,Gnome
-116;PLAYER,Troll
+115;PLAYER, Gnome
+116;PLAYER, Troll
 118;Undercity
 119;Bloodsail Buccaneers
 120;Booty Bay
@@ -122,8 +122,8 @@
 127;Villian
 128;Blackfathom
 129;Makrura
-130;Centaur,Kolkar
-131;Centaur,Galak
+130;Centaur, Kolkar
+131;Centaur, Galak
 132;Gelkis Clan Centaur
 133;Magram Clan Centaur
 134;Maraudine
@@ -131,9 +131,9 @@
 149;Theramore
 150;Theramore
 151;Theramore
-152;Quilboar,Razorfen
-153;Quilboar,Razorfen
-154;Quilboar,Deathshead
+152;Quilboar, Razorfen
+153;Quilboar, Razorfen
+154;Quilboar, Deathshead
 168;Enemy
 188;Ambient
 189;Creature
@@ -144,20 +144,20 @@
 230;Southsea Freebooters
 231;Escortee
 232;Escortee
-233;Undead,Scourge
+233;Undead, Scourge
 250;Escortee
 270;Wailing Caverns
 290;Escortee
 310;Silithid
 311;Silithid
-312;Beast-Spider
+312;Beast - Spider
 330;Wailing Caverns
 350;Blackfathom
 370;Armies of C'Thun
 371;Silvermoon Remnant
 390;Booty Bay
 410;Basilisk
-411;Beast-Bat
+411;Beast - Bat
 412;The Defilers
 413;Scorpid
 414;Timbermaw Hold
@@ -184,15 +184,15 @@
 635;Cenarion Circle
 636;Timbermaw Hold
 637;Ratchet
-654;Troll,Witherbark
-655;Centaur,Kolkar
+654;Troll, Witherbark
+655;Centaur, Kolkar
 674;Dark Iron Dwarves
 694;Alliance Generic
 695;Hydraxian Waterlords
 714;Horde Generic
 734;Dark Iron Dwarves
-735;Goblin,Dark Iron Bar Patron
-736;Goblin,Dark Iron Bar Patron
+735;Goblin, Dark Iron Bar Patron
+736;Goblin, Dark Iron Bar Patron
 754;Dark Iron Dwarves
 774;Escortee
 775;Escortee
@@ -200,20 +200,20 @@
 777;Might of Kalimdor
 778;Giant
 794;Argent Dawn
-795;Troll,Vilebranch
+795;Troll, Vilebranch
 814;Argent Dawn
 834;Elemental
 854;Everlook
 855;Everlook
 874;Wintersaber Trainers
-875;Gnomeregan Exiles
+875;Gnomeregan
 876;Darkspear Trolls
 877;Darkspear Trolls
 894;Theramore
 914;Training Dummy
-934;Furbolg,Uncorrupted
+934;Furbolg, Uncorrupted
 954;Demon
-974;Undead,Scourge
+974;Undead, Scourge
 994;Cenarion Circle
 995;Thunder Bluff
 996;Cenarion Circle
@@ -229,11 +229,11 @@
 1078;Stormwind
 1080;Friendly
 1081;Elemental
-1094;Beast-Boar
+1094;Beast - Boar
 1095;Training Dummy
 1096;Theramore
 1097;Darnassus
-1114;Dragonflight,Black-Bait
+1114;Dragonflight, Black - Bait
 1134;Undercity
 1154;Undercity
 1174;Orgrimmar
@@ -255,12 +255,12 @@
 1335;Frostwolf Clan
 1354;Shen'dralar
 1355;Shen'dralar
-1374;Ogre(Captain Kromcrush)
+1374;Ogre (Captain Kromcrush)
 1375;Treasure
-1394;Dragonflight,Black
+1394;Dragonflight, Black
 1395;Silithid Attackers
-1414;Spirit Guide-Alliance
-1415;Spirit Guide-Horde
+1414;Spirit Guide - Alliance
+1415;Spirit Guide - Horde
 1434;Jaedenar
 1454;Victim
 1474;Thorium Brotherhood
@@ -288,11 +288,11 @@
 1602;Silvermoon City
 1603;Silvermoon City
 1604;Silvermoon City
-1605;Dragonflight,Bronze
+1605;Dragonflight, Bronze
 1606;Creature
 1607;Creature
 1608;Cenarion Circle
-1610;PLAYER,BloodElf
+1610;PLAYER, Blood Elf
 1611;Ironforge
 1612;Orgrimmar
 1613;Might of Kalimdor
@@ -308,10 +308,10 @@
 1623;Tranquillien
 1624;Argent Dawn
 1625;Argent Dawn
-1626;Undead,Scourge
+1626;Undead, Scourge
 1627;Farstriders
 1628;Tranquillien
-1629;PLAYER,Draenei
+1629;PLAYER, Draenei
 1630;Scourge Invaders
 1634;Scourge Invaders
 1635;Steamwheedle Cartel
@@ -322,17 +322,17 @@
 1640;Exodar
 1641;Warsong Outriders
 1642;Silverwing Sentinels
-1643;Troll,Forest
+1643;Troll, Forest
 1644;The Sons of Lothar
 1645;The Sons of Lothar
 1646;Exodar
 1647;Exodar
 1648;The Sons of Lothar
 1649;The Sons of Lothar
-1650;TheMag'har
-1651;TheMag'har
-1652;TheMag'har
-1653;TheMag'har
+1650;The Mag'har
+1651;The Mag'har
+1652;The Mag'har
+1653;The Mag'har
 1654;Exodar
 1655;Exodar
 1656;Silvermoon City
@@ -344,7 +344,7 @@
 1662;Fel Orc
 1663;Fel Orc Ghost
 1664;Sons of Lothar Ghosts
-1665;None
+1665;Friendly
 1666;Honor Hold
 1667;Honor Hold
 1668;Thrallmar
@@ -352,11 +352,11 @@
 1670;Thrallmar
 1671;Honor Hold
 1672;Test Faction 1
-1673;To WoW-Flag
+1673;ToWoW - Flag
 1674;Test Faction 4
 1675;Test Faction 3
-1676;ToWoW-Flag Trigger Horde(DND)
-1677;ToWoW-Flag Trigger Alliance(DND)
+1676;ToWoW - Flag Trigger Horde (DND)
+1677;ToWoW - Flag Trigger Alliance (DND)
 1678;Ethereum
 1679;Broken
 1680;Elemental
@@ -390,11 +390,11 @@
 1708;Sporeggar
 1709;Sporeggar
 1710;Cenarion Expedition
-1711;Monster,Predator
-1712;Monster,Prey
-1713;Monster,Prey
+1711;Monster, Predator
+1712;Monster, Prey
+1713;Monster, Prey
 1714;Sunhawks
-1715;VoidAnomaly
+1715;Void Anomaly
 1716;Hyjal Defenders
 1717;Hyjal Defenders
 1718;Hyjal Defenders
@@ -404,9 +404,9 @@
 1722;Kurenai
 1723;Kurenai
 1724;Kurenai
-1725;Earthen Ring
-1726;Earthen Ring
-1727;Earthen Ring
+1725;Earthen Ring, Old World
+1726;Earthen Ring, Old World
+1727;Earthen Ring, Old World
 1728;Cenarion Expedition
 1729;Thrallmar
 1730;The Consortium
@@ -418,28 +418,28 @@
 1736;Monster Spar Buddy
 1737;Honor Hold
 1738;Arakkoa
-1739;Zangarmarsh Banner(Alliance)
-1740;Zangarmarsh Banner(Horde)
+1739;Zangarmarsh Banner (Alliance)
+1740;Zangarmarsh Banner (Horde)
 1741;The Sha'tar
-1742;Zangarmarsh Banner(Neutral)
+1742;Zangarmarsh Banner (Neutral)
 1743;The Aldor
 1744;The Scryers
 1745;Silvermoon City
 1746;The Scryers
-1747;Caverns of Time-Thrall
-1748;Caverns of Time-Durnholde
-1749;Caverns of Time-Southshore Guards
+1747;Caverns of Time - Thrall
+1748;Caverns of Time - Durnholde
+1749;Caverns of Time - Southshore Guards
 1750;Shadow Council Covert
 1751;Monster
-1752;Dark Portal Attacker,Legion
-1753;Dark Portal Attacker,Legion
-1754;Dark Portal Attacker,Legion
-1755;Dark Portal Defender,Alliance
-1756;Dark Portal Defender,Alliance
-1757;Dark Portal Defender,Alliance
-1758;Dark Portal Defender,Horde
-1759;Dark Portal Defender,Horde
-1760;Dark Portal Defender,Horde
+1752;Dark Portal Attacker, Legion
+1753;Dark Portal Attacker, Legion
+1754;Dark Portal Attacker, Legion
+1755;Dark Portal Defender, Alliance
+1756;Dark Portal Defender, Alliance
+1757;Dark Portal Defender, Alliance
+1758;Dark Portal Defender, Horde
+1759;Dark Portal Defender, Horde
+1760;Dark Portal Defender, Horde
 1761;Inciter Trigger
 1762;Inciter Trigger 2
 1763;Inciter Trigger 3
@@ -471,13 +471,13 @@
 1789;Sunhawks
 1790;Bladespire Clan
 1791;Bloodmaul Clan
-1792;FelOrc
+1792;Fel Orc
 1793;Sunhawks
 1794;Protectorate
 1795;Protectorate
 1796;Ethereum
 1797;Protectorate
-1798;Arcane Annihilator(DNR)
+1798;Arcane Annihilator (DNR)
 1799;Ethereum Sparbuddy
 1800;Ethereum
 1801;Horde
@@ -485,16 +485,16 @@
 1803;Ambient
 1804;Ambient
 1805;The Aldor
-1806;Friendly
+1806;Friendly, New
 1807;Protectorate
-1808;Kirin'Var-Belmara
-1809;Kirin'Var-Cohlien
-1810;Kirin'Var-Dathric
-1811;Kirin'Var-Luminrath
+1808;Kirin'Var - Belmara
+1809;Kirin'Var - Cohlien
+1810;Kirin'Var - Dathric
+1811;Kirin'Var - Luminrath
 1812;Friendly
 1813;Servant of Illidan
 1814;Monster Spar Buddy
-1815;Beast-Wolf
+1815;Beast - Wolf
 1816;Friendly
 1818;Lower City
 1819;Alliance Generic
@@ -530,7 +530,7 @@
 1849;Servant of Illidan
 1850;Netherwing
 1851;Lower City
-1852;Chess,Friendly to All Chess
+1852;Chess, Friendly to All Chess
 1853;Servant of Illidan
 1854;The Aldor
 1855;The Scryers
@@ -540,9 +540,9 @@
 1859;Maiev
 1860;Skettis Shadowy Arakkoa
 1862;Skettis Arakkoa
-1863;Orc,Dragonmaw
+1863;Orc, Fel Dragonmaw
 1864;Dragonmaw Enemy
-1865;Orc,Dragonmaw
+1865;Orc, Fel Dragonmaw
 1866;Ashtongue Deathsworn
 1867;Maiev
 1868;Monster Spar Buddy
@@ -554,10 +554,10 @@
 1874;Ogri'la
 1875;The Aldor
 1876;The Scryers
-1877;Orc,Dragonmaw
+1877;Orc, Fel Dragonmaw
 1878;Frenzy
 1879;Skyguard Enemy
-1880;Orc,Dragonmaw
+1880;Orc, Fel Dragonmaw
 1881;Skettis Arakkoa
 1882;Servant of Illidan
 1883;Theramore Deserter
@@ -567,7 +567,7 @@
 1887;Creature
 1888;Northsea Pirates
 1889;UNUSED
-1890;Troll,Amani
+1890;Troll, Amani
 1891;Valiance Expedition
 1892;Valiance Expedition
 1893;Valiance Expedition
@@ -585,11 +585,11 @@
 1906;Spotted Gryphon
 1907;Test Faction 1
 1908;Test Faction 1
-1909;Beast-Raptor
-1910;Vrykul(AncientSpirit1)
-1911;Vrykul(AncientSiprit2)
-1912;Vrykul(AncientSiprit3)
-1913;CTF-Flag-Alliance
+1909;Beast - Raptor
+1910;Vrykul (Ancient Spirit 1)
+1911;Vrykul (Ancient Siprit 2)
+1912;Vrykul (Ancient Siprit 3)
+1913;CTF - Flag - Alliance
 1914;Vrykul
 1915;Test
 1916;Maiev
@@ -600,10 +600,10 @@
 1921;The Taunka
 1922;The Taunka
 1923;The Taunka
-1924;Monster,Zone Force Reaction 1
+1924;Monster, Zone Force Reaction 1
 1925;Monster
-1926;Explorer's League
-1927;Explorer's League
+1926;Explorers' League
+1927;Explorers' League
 1928;The Hand of Vengeance
 1929;The Hand of Vengeance
 1930;Ram Racing Powerup DND
@@ -624,11 +624,11 @@
 1945;Craig's Squirrels
 1947;Craig's Squirrels
 1948;Blue
-1949;The Kalu' ak
-1950;The Kalu' ak
+1949;The Kalu'ak
+1950;The Kalu'ak
 1951;Darnassus
-1952;Holiday-WaterBarrel
-1953;Monster,Predator
+1952;Holiday - Water Barrel
+1953;Monster, Predator
 1954;Iron Dwarves
 1955;Iron Dwarves
 1956;Shattered Sun Offensive
@@ -637,48 +637,48 @@
 1959;Actor Evil
 1960;Shattered Sun Offensive
 1961;Fighting Vanity Pet
-1962;Undead,Scourge
+1962;Undead, Scourge
 1963;Demon
-1964;Undead,Scourge
+1964;Undead, Scourge
 1965;Monster Spar
 1966;Murloc
 1967;Shattered Sun Offensive
-1968;Murloc,Winterfin
+1968;Murloc, Winterfin
 1969;Murloc
 1970;Monster
-1971;Friendly,Force Reaction
-1972;Object,Force Reaction
+1971;Friendly, Force Reaction 1
+1972;Object, Force Reaction
 1973;Valiance Expedition
 1974;Valiance Expedition
-1975;Undead,Scourge
+1975;Undead, Scourge
 1976;Valiance Expedition
 1977;Valiance Expedition
 1978;Warsong Offensive
 1979;Warsong Offensive
 1980;Warsong Offensive
 1981;Warsong Offensive
-1982;Undead,Scourge
+1982;Undead, Scourge
 1983;Monster Spar
 1984;Monster Spar Buddy
 1985;Monster
 1986;Escortee
 1987;Cenarion Expedition
-1988;Undead,Scourge
+1988;Undead, Scourge
 1989;Poacher
 1990;Ambient
-1991;Undead,Scourge
+1991;Undead, Scourge
 1992;Monster
 1993;Monster Spar
 1994;Monster Spar Buddy
-1995;CTF-Flag-Alliance
-1997;CTF-Flag-Alliance
+1995;CTF - Flag - Alliance
+1997;CTF - Flag - Alliance
 1998;Holiday Monster
-1999;Monster,Prey
-2000;Monster,Prey
-2001;Furbolg,Redfang
-2003;Furbolg,Frostpaw
+1999;Monster, Prey
+2000;Monster, Prey
+2001;Furbolg, Redfang
+2003;Furbolg, Frostpaw
 2004;Valiance Expedition
-2005;Undead,Scourge
+2005;Undead, Scourge
 2006;Kirin Tor
 2007;Kirin Tor
 2008;Kirin Tor
@@ -690,7 +690,7 @@
 2014;Azjol-Nerub
 2016;Azjol-Nerub
 2017;Azjol-Nerub
-2018;Undead,Scourge
+2018;Undead, Scourge
 2019;The Taunka
 2020;Warsong Offensive
 2021;REUSE
@@ -704,7 +704,7 @@
 2029;Monster, Predator
 2030;Monster, Predator
 2031;Horde Generic
-2032;GrizzlyHills Trapper
+2032;Grizzly Hills Trapper
 2033;Monster
 2034;Warsong Offensive
 2035;Undead, Scourge
@@ -719,19 +719,19 @@
 2044;Valiance Expedition
 2045;Warsong Offensive
 2046;Escortee
-2047;The Kalu' ak
+2047;The Kalu'ak
 2048;Scourge Invaders
 2049;Scourge Invaders
-2050;Knights of the EbonBlade
-2051;Knights of the EbonBlade
+2050;Knights of the Ebon Blade
+2051;Knights of the Ebon Blade
 2052;Wrathgate Scourge
 2053;Wrathgate Alliance
 2054;Wrathgate Horde
 2055;Monster Spar
 2056;Monster Spar Buddy
-2057;Monster, ZoneForceReaction 2
-2058;CTF-Flag-Horde
-2059;CTF-Flag-Neutral
+2057;Monster, Zone Force Reaction 2
+2058;CTF - Flag - Horde
+2059;CTF - Flag - Neutral
 2060;Frenzyheart Tribe
 2061;Frenzyheart Tribe
 2062;Frenzyheart Tribe
@@ -746,7 +746,7 @@
 2071;Argent Crusade
 2072;Argent Crusade
 2073;Argent Crusade
-2074;Caverns of Time-Durnholde
+2074;Caverns of Time - Durnholde
 2075;CoT Scourge
 2076;CoT Arthas
 2077;CoT Arthas
@@ -762,9 +762,9 @@
 2087;Argent Dawn
 2088;Actor Evil
 2089;Scarlet Crusade
-2090;Mount-Taxi-Alliance
-2091;Mount-Taxi-Horde
-2092;Mount-Taxi-Neutral
+2090;Mount - Taxi - Alliance
+2091;Mount - Taxi - Horde
+2092;Mount - Taxi - Neutral
 2093;Undead, Scourge
 2094;Undead, Scourge
 2095;Scarlet Crusade
@@ -811,31 +811,379 @@
 2136;Ambient
 2137;Friendly
 2138;Argent Crusade
-2139;ScourgeInvaders
+2139;Scourge Invaders
 2140;Friendly
 2141;Friendly
 2142;Alliance
 2143;Valiance Expedition
-2144;Knights of the EbonBlade
+2144;Knights of the Ebon Blade
 2145;Scourge Invaders
+2146;Twilight's Hammer
+2147;Twilight's Hammer
 2148;The Kalu'ak
+2149;Furbolg, Blackwood
 2150;Monster Spar Buddy
+2151;Stag, Darkshore
+2152;Stag, Darkshore
+2153;Moonstalker, Darkshore
+2154;Bear, Darkshore
 2155;Ironforge
 2156;Monster, Predator
-2176;ActorGood
-2178;ActorGood
+2157;Bear, Darkshore
+2158;Bear, Darkshore
+2159;Bilgewater Cartel
+2160;Bilgewater Cartel
+2161;Bilgewater Cartel
+2162;Bilgewater Cartel
+2163;Gilneas
+2164;Gilneas
+2165;Gilneas
+2166;Gilneas
+2167;The Earthen Ring
+2168;The Earthen Ring
+2169;Warsong Outriders
+2170;Elemental
+2171;Friendly
+2172;Silverwing Sentinels
+2173;Gilneas
+2174;Worgen
+2175;Monster, Predator
+2176;Actor Good
+2178;Actor Good
+2179;Worgen
+2180;Friendly
+2181;Friendly
+2182;Gilneas
+2183;Sons of Gelkis
+2184;Magram Remnant
+2185;Friendly
+2186;REUSE
+2187;REUSE
+2188;REUSE
 2189;Hates Everything
 2190;Hates Everything
 2191;Hates Everything
+2200;Monster, Predator
+2201;Horde Generic
+2202;Stormwind
+2203;PLAYER, Worgen
+2204;PLAYER, Goblin
+2205;Naga
+2206;Monster
+2207;Gilneas
+2208;Monster
 2209;Undead, Scourge
 2210;Silvermoon City
-2212;Undead,Scourge
-2214;Knights of the EbonBlade
+2211;Orgrimmar
+2212;Undead, Scourge
+2213;Undercity
+2214;Knights of the Ebon Blade
+2215;Darkspear Trolls
 2216;The Ashen Verdict
 2217;The Ashen Verdict
 2218;The Ashen Verdict
 2219;The Ashen Verdict
-2226;Knights of the EbonBlade
-2230;ArgentCrusade
-2235;CTF-Flag-Horde 2
-2236;CTF-Flag-Alliance 2
+2220;Naga
+2221;Naga
+2222;Naga
+2223;Darkspear Trolls
+2224;Naga
+2225;Darkspear Trolls
+2226;Knights of the Ebon Blade
+2227;Bilgewater Cartel
+2228;Pygmy
+2229;Pygmy
+2230;Argent Crusade
+2231;Bilgewater Cartel
+2232;Elemental
+2233;Guardians of Hyjal
+2234;Elemental
+2235;CTF - Flag - Horde 2
+2236;CTF - Flag - Alliance 2
+2237;Friendly
+2238;Orgrimmar
+2239;Orgrimmar
+2240;Gadgetzan
+2241;The Earthen Ring
+2242;Naga
+2243;Naga
+2244;Actor Good
+2245;Actor Evil
+2246;Grimtotem
+2247;Grimtotem
+2248;Thunder Bluff
+2249;Thunder Bluff
+2250;Darnassus
+2251;Darnassus
+2252;Guardians of Hyjal
+2253;Twilight's Hammer
+2254;Twilight's Hammer
+2255;The Earthen Ring
+2256;The Earthen Ring
+2257;Monster
+2258;Southsea Freebooters
+2259;Gnomeregan
+2260;Monster, Predator
+2261;Alliance
+2262;Monster
+2263;Actor Good
+2264;Troll, Frostmane
+2265;Orgrimmar
+2266;Grimtotem
+2267;Orgrimmar
+2268;Orgrimmar
+2269;The Earthen Ring
+2270;Dark Iron Dwarves
+2271;Ironforge
+2272;Dragonflight, Black
+2273;Orc, Fel Dragonmaw
+2274;Darnassus
+2275;Naga
+2276;Naga
+2277;Naga
+2278;Elemental, Water
+2279;Elemental, Water
+2280;Creature
+2281;Therazane
+2282;Therazane
+2283;Therazane
+2284;Therazane
+2285;Therazane
+2286;Therazane
+2287;Therazane
+2288;Therazane
+2289;The Earthen Ring
+2290;The Earthen Ring
+2291;Twilight's Hammer
+2292;Twilight's Hammer
+2293;Horde Generic
+2294;Alliance Generic
+2295;Stormwind
+2296;Monster
+2297;Twilight's Hammer
+2298;Monster
+2299;Friendly
+2300;Gnomeregan
+2301;Alliance Generic
+2302;Alliance Generic
+2303;Orc, Fel Dragonmaw
+2304;Orc, Fel Dragonmaw
+2305;Dragonmaw Clan
+2306;Dragonmaw Clan
+2307;Dragonmaw Clan
+2308;Dragonmaw Clan
+2309;Guardians of Hyjal
+2310;Therazane
+2311;Therazane
+2312;Trogg
+2313;Orc, Blackrock
+2314;Orgrimmar
+2315;Orc, Fel Dragonmaw
+2316;Stormwind
+2317;The Earthen Ring
+2318;The Earthen Ring
+2319;Furbolg
+2320;Argent Crusade
+2321;Stormwind
+2322;Orgrimmar
+2323;The Earthen Ring
+2324;Monster
+2325;Twilight's Hammer
+2326;Twilight's Hammer
+2327;Dragonflight, Red
+2328;Dragonflight, Red
+2329;Dragonflight, Red
+2330;Dragonflight, Red
+2331;Ramkahen
+2332;Ramkahen
+2333;Ramkahen
+2334;Monster
+2335;Steamwheedle Cartel
+2336;Wildhammer Clan
+2337;Wildhammer Clan
+2338;Wildhammer Clan
+2339;Wildhammer Clan
+2340;Dragonmaw Clan
+2341;Dragonmaw Clan
+2342;Stormwind
+2343;Stormwind
+2344;Orgrimmar
+2345;Orgrimmar
+2346;Bilgewater Cartel
+2347;Bilgewater Cartel
+2348;Monster, Zone Force Reaction 1
+2349;Undercity
+2350;Dragonflight, Black
+2351;Dragonflight, Black
+2352;Dragonflight, Red
+2353;Dragonflight, Red
+2354;Baradin's Wardens
+2355;Hellscream's Reach
+2356;Dark Iron Dwarves
+2357;Slime
+2358;Monster, Predator
+2359;Ramkahen
+2360;Gilneas
+2361;Horde Generic
+2362;Alliance Generic
+2363;Argent Crusade
+2364;Thorium Brotherhood
+2365;Gnoll - Riverpaw
+2366;Gnomeregan
+2367;Gadgetzan
+2369;Guardians of Hyjal
+2370;Monster
+2371;Hyjal Invaders
+2372;Hyjal Invaders
+2373;Friendly
+2374;Monster Spar Buddy
+2375;Worgen
+2376;Baradin's Wardens
+2377;Hellscream's Reach
+2378;Guardians of Hyjal
+2379;Avengers of Hyjal
+2381;Forest Hozen
+2382;Alliance
+2383;CoT Well of Eternity - Illidan
+2384;CoT Well of Eternity - High Elves
+2385;CoT Well of Eternity - Illidan
+2386;CoT Well of Eternity - Illidan (Stealth)
+2387;CoT Well of Eternity - Demons
+2388;CoT Well of Eternity - Hunter Stalkers
+2389;CoT Well of Eternity - Demon Balls
+2390;Forest Hozen
+2391;Forest Hozen
+2392;Forest Hozen
+2393;Pearlfin Jinyu
+2394;Monster
+2395;PLAYER, Expansion 4 Neutral
+2399;Guardians of the East Temple
+2400;Sha
+2401;PLAYER, Human
+2402;PLAYER, Blood Elf
+2468;Shen'dralar
+2476;Mogu
+2477;Mogu
+2478;Mogu
+2479;Mogu
+2480;Mogu
+2481;Golden Lotus
+2482;Shado-Pan
+2483;Golden Lotus
+2484;Golden Lotus
+2485;Golden Lotus
+2486;Golden Lotus
+2487;Golden Lotus
+2488;Shado-Pan
+2489;Shado-Pan
+2490;Shado-Pan
+2491;Shado-Pan
+2492;Shado-Pan
+2493;Order of the Cloud Serpent
+2497;The Tillers
+2498;Ambient
+2501;Actor Good
+2502;Actor Evil
+2503;Pearlfin Jinyu
+2504;Guardians of the Red Crane
+2505;Forest Hozen
+2533;The Anglers
+2548;Ambient
+2550;The Mantid Swarm
+2551;The Mantid Swarm
+2552;The Klaxxi
+2553;The Klaxxi
+2554;The Klaxxi
+2556;The Klaxxi
+2557;The Mantid Swarm
+2558;The Mantid Swarm
+2559;Forest Hozen
+2560;Gurthan Mogu
+2561;Harthak Mogu
+2562;Korgesh Mogu
+2563;Enemy
+2564;Shado-Pan
+2565;Shado-Pan
+2566;Stormwind
+2568;The Lorewalkers
+2569;The Lorewalkers
+2570;The Lorewalkers
+2573;Monster, Prey
+2574;Monster, Prey
+2575;Prey
+2576;Prey
+2577;Hates Everything
+2578;Mogu
+2579;Mogu
+2580;Friendly
+2581;Shado-Pan
+2585;Monster
+2587;Friendly, Force Reaction 2
+2588;Creature
+2590;Monster, Prey
+2591;Friendly, Force Reaction 3
+2592;Friendly, Force Reaction 4
+2593;Friendly, Force Reaction 5
+2594;Friendly, Force Reaction 6
+2595;Friendly, Force Reaction 7
+2596;Friendly
+2597;Monster
+2598;The Black Prince
+2599;Sha
+2600;The Klaxxi
+2602;Paw'don Village
+2603;Paw'don Village
+2604;Honeydew Village
+2605;Honeydew Village
+2606;Pearlfin Jinyu
+2607;Pearlfin Jinyu
+2608;Forest Hozen
+2609;Honeydew Village
+2611;The Tillers
+2612;The Anglers
+2614;Order of the Cloud Serpent
+2618;Alliance Generic
+2621;Actor Evil
+2622;The August Celestials
+2623;Monster
+2624;Monster
+2625;Mogu
+2626;Monster, Enforced Neutral For Force Reaction
+2628;Monster
+2629;Monster
+2630;Monster
+2633;Friendly
+2634;Monster
+2635;Monster
+2636;Friendly
+2637;Kirin Tor Offensive
+2638;Kirin Tor Offensive
+2639;Kirin Tor Offensive
+2640;Sunreaver Onslaught
+2641;Sunreaver Onslaught
+2642;Sunreaver Onslaught
+2643;Ambient
+2646;Shado-Pan
+2648;Kor'kron
+2649;Kor'kron
+2650;Darkspear Trolls
+2659;Kor'kron
+2660;Kor'kron
+2661;Darkspear Trolls
+2662;Darkspear Trolls
+2663;Darkspear Trolls
+2664;Orgrimmar
+2665;Kor'kron
+2666;Kor'kron
+2667;Horde Generic
+2668;Alliance Generic
+2669;Blades of Eternity
+2673;Beast - Wolf
+2675;Monster
+2676;The Timewalkers
+2677;The August Celestials
+2684;Kirin Tor Offensive
+2685;Sunreaver Onslaught
+2686;Red Phantom
+2687;Alliance
+2688;Horde
